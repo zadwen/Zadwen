@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Zadwen 👋
+I'm Zadwen 👋
 
 ![Prana Banner](assets/prana-banner.gif)
 
