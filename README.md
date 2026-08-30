@@ -6,4 +6,4 @@
 
 I am **Zadwen**.  
 I like **bruteforce cracking** and I hate **Windows**.  
-Vabe coding 💻
+Vabe coding 
