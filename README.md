@@ -1,6 +1,6 @@
-<img src="prana-banner-large.gif" width="900" alt="Zadwen — Linux, cybersecurity and building tools">
+<img src="prana-banner-large.gif" width="900" alt="zadwen — Linux, cybersecurity and building tools">
 
-# Hi, I'm Zadwen
+# Hi, I'm zadwen
 
 I'm a cybersecurity student interested in **Linux, CTFs, and security research**. I build tools that simplify setup, investigation, and everyday computing.
 
@@ -8,14 +8,14 @@ Most of my projects use **Python and shell scripting**. My interests include net
 
 ## Featured projects
 
-| Project | What it does |
-| --- | --- |
-| [Cyber Toolkit](https://github.com/zadwen/cyber-toolkit) | Profile-based Linux installer for cybersecurity students, CTF players, defenders, and AI students. |
-| [CTF Assistant](https://github.com/zadwen/ctf-assistant) | Utilities for working through capture-the-flag challenges. |
-| [Leakwatch](https://github.com/zadwen/leakwatch) | Privacy and security monitoring tools for Linux. |
-| [Linux APK Runner](https://github.com/zadwen/linux-apk-runner) | Desktop launcher and emulator setup for running Android APKs on Linux. |
-| [FocusLock](https://github.com/zadwen/FocusLock) | An app blocker designed to help with studying and focus. |
-| [Gameify](https://github.com/zadwen/gameify) | Linux gaming setup and configuration automation. |
+| Project | Area | What it does |
+| --- | --- | --- |
+| [Cyber Toolkit](https://github.com/zadwen/cyber-toolkit) | Linux setup | Profile-based tool installer for cybersecurity, CTF, defensive security, and AI students on APT-based Linux. |
+| [CTF Assistant](https://github.com/zadwen/ctf-assistant) | CTF learning | Lab reconnaissance, web mapping, and offline challenge-file analysis with evidence reports. |
+| [LeakWatch](https://github.com/zadwen/leakwatch) | Linux monitoring | Tray-based privacy and security monitor for common leaks and configuration issues. |
+| [Linux APK Runner](https://github.com/zadwen/linux-apk-runner) | Android on Linux | Desktop launcher and Android Emulator setup for installing and opening APKs. |
+| [FocusLock](https://github.com/zadwen/FocusLock) | Productivity | Local-first focus timer and distraction blocker for Windows and Linux. |
+| [gameify](https://github.com/zadwen/gameify) | Linux gaming | Gaming setup and maintenance scripts with previews and optional configuration tiers. |
 
 ## What I'm working on
 
