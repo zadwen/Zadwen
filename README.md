@@ -1,6 +1,6 @@
-<img src="prana-banner-large.gif" width="900" alt="zadwen — Linux, cybersecurity and building tools">
+<img src="prana-banner-large.gif" width="900" alt="Zadwen — Linux, cybersecurity and building tools">
 
-# Hi, I'm zadwen
+# Hi, I'm Zadwen
 
 I'm a cybersecurity student interested in **Linux, CTFs, and security research**. I build tools that simplify setup, investigation, and everyday computing.
 
